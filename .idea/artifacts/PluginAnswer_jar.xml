@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="PluginAnswer:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/PluginAnswer_jar</output-path>
+    <root id="archive" name="PluginAnswer.jar">
+      <element id="module-output" name="PluginAnswer" />
+      <element id="extracted-dir" path="$USER_HOME$/Desktop/Spigot/Spigot/Spigot-API/target/spigot-api-1.11.2-R0.1-SNAPSHOT.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>

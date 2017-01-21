@@ -1,0 +1,8 @@
+name: PluginAnswer
+version: 1.5.0
+author: FalseHonesty
+main: dev.fh.pluginanswer.PluginAnswer
+commands:
+  togglesignclear:
+    description: Toggles sign clearing on/off
+    usage: /togglesignclear
